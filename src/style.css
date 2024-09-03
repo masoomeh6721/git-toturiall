@@ -1,0 +1,11 @@
+.done{
+    border: 1px solid black;
+    background-color: green;
+   
+}
+
+.undone{
+    border: 1px solid black;
+    background-color: red;
+   
+}
